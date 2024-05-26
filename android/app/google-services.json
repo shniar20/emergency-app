@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "314436566205",
+    "project_id": "emergency-app-fc3be",
+    "storage_bucket": "emergency-app-fc3be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314436566205:android:0d3640bb9f474e7b700bd4",
+        "android_client_info": {
+          "package_name": "com.example.emergency"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGMOrOU8ciw5UtBOGTd_3kzW5RtQLE2UU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
